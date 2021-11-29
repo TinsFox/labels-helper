@@ -27,6 +27,7 @@ async function run() {
 
     const URL = `https://api.github.com/repos/${getOwner}/${getRepo}/contents/${path}`;
     const res = await axios.get(URL);
+    console.log('res', res);
     const names = res.data;
     for (let i = 0; i < names.length; i++) {
       let name = names[i].name;

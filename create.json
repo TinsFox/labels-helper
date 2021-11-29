@@ -1,9 +1,9 @@
 {
   "get-owner": "ant-design",
   "get-repo": "ant-design",
-  "target-owner": "actions-cool",
-  "target-repo": "create-labels",
-  "token": "",
+  "target-owner": "TinsFox",
+  "target-repo": "issue-helper",
+  "token": "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",
   "// token": "The token should have target-repo write access.",
   "path": "components/",
   "ignore": "col, row, version, index.tsx",
