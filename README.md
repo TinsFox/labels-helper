@@ -41,5 +41,3 @@
   - ignore 忽略删除 label
 
 ## LICENSE
-
-[MIT](./LICENSE)
