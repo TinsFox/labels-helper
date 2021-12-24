@@ -3,6 +3,7 @@ description: pull request
 title: "🐛 [Bug]: "
 labels:
   - bug
+
 body:
   - type: markdown
     attributes:
